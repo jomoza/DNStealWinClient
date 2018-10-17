@@ -1,2 +1,2 @@
 # DNStealWIN
-Simple Powershell Script to use the tool DNSteal in Windows Machines
+Simple Powershell Script to use the tool DNSteal https://github.com/jomoza/DNStealWIN in Windows Machines
